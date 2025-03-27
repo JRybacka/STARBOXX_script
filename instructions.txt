@@ -1,0 +1,14 @@
+1. go to kohyass dorectory
+
+2. run setup 310 bat
+
+3. enter:
+pip install accelerate
+
+4. then: 
+where.exe accelerate
+
+5. edit v3 in vscode
+
+6. run the script:
+py training_script_v3.py
